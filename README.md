@@ -1,2 +1,2 @@
 # ideas-repository
-This is my first ideas repository open to everyone
+This is my ideas repository open to the public to comment and contribute their thoughts.
